@@ -21,6 +21,7 @@ body {
     border-radius:10px;
     padding:10px;
     font-size:16px;
+    caret-color: white;  /* <-- cursor color changed to white */
 }
 .stButton button {
     background: linear-gradient(90deg,#7c3aed,#c084fc);
